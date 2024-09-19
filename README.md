@@ -52,6 +52,11 @@ npm init -y
 npm install
 ```
 
+**Seed the data**
+```bash
+npm run seed
+```
+
 **Run the program**
 ```bash
 npm run start
